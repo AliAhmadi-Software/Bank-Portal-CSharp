@@ -1,0 +1,9 @@
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\bin\Debug\KicccIngenicoTestClient.exe.config
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\bin\Debug\KicccIngenicoTestClient.exe
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\bin\Debug\KicccIngenicoTestClient.pdb
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\obj\Debug\KicccIngenicoTestClient.csprojResolveAssemblyReference.cache
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\obj\Debug\KicccIngenicoTestClient.FrmMain.resources
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\obj\Debug\KicccIngenicoTestClient.Properties.Resources.resources
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\obj\Debug\KicccIngenicoTestClient.csproj.GenerateResource.Cache
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\obj\Debug\KicccIngenicoTestClient.exe
+D:\MyTFS\PcPos\KicccIngenico4xx\KicccIngenicoTestClient\obj\Debug\KicccIngenicoTestClient.pdb
